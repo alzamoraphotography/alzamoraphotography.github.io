@@ -1,0 +1,370 @@
+html {
+    background-color: rgba(52, 45, 45, 1);
+}
+
+body {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    overflow: auto;
+}
+
+:root {
+    --web-view-ids: INDEX_1;
+}
+
+#INDEX_1 * {
+    margin: 0;
+    padding: 0;
+}
+
+.INDEX_1_Class {
+    position: absolute;
+    box-sizing: border-box;
+    transform: translateX(-50%);
+    left: 50%;
+    background: #E5E5E5;
+    width: 1920px;
+    height: 1901px;
+    background-color: rgba(255,255,255,1);
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    --web-view-name: INDEX 1;
+    --web-view-id: INDEX_1;
+    --web-show-navigation-controls: true;
+    --web-enable-deep-linking: true;
+}
+
+.DSC_9931_Class {
+    fill: url(#DSC_9931_A0_Rectangle_2_pattern);
+}
+
+.DSC_9931 {
+    position: absolute;
+    overflow: visible;
+    width: 1920px;
+    height: 1080px;
+    ;
+    left: 0px;
+    top: 0px;
+}
+
+.logotype_2_Class {
+    fill: url(#logotype_2_A0_Rectangle_4_pattern);
+}
+
+.logotype_2 {
+    position: absolute;
+    overflow: visible;
+    width: 601px;
+    height: 811px;
+    left: 660px;
+    top: 233px;
+}
+
+.ALZAMORA_PHOTOGRAPHY_Class {
+    position: absolute;
+    left: 660px;
+    top: 77px;
+    overflow: visible;
+    width: 601px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: SimSun-ExtB;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 60px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.HOME_Class {
+    position: absolute;
+    left: 1261px;
+    top: 184px;
+    overflow: visible;
+    width: 61px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: SimSun-ExtB;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.PORTFOLIO_Class {
+    position: absolute;
+    left: 1356px;
+    top: 184px;
+    overflow: visible;
+    width: 136px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: SimSun-ExtB;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.OFFERS_Class {
+    position: absolute;
+    left: 1526px;
+    top: 184px;
+    overflow: visible;
+    width: 91px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: SimSun-ExtB;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.ABOUT_Class {
+    position: absolute;
+    left: 1651px;
+    top: 184px;
+    overflow: visible;
+    width: 76px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: SimSun-ExtB;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.Rectangle_1_Class {
+    fill: rgba(52, 45, 45, 1);
+    stroke: rgb(52, 45, 45);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Rectangle_1 {
+    position: absolute;
+    overflow: visible;
+    width: 1920px;
+    height: 720px;
+    left: 0px;
+    top: 1080px;
+}
+
+.hello_Class {
+    fill: url(#hello_A0_Rectangle_7_pattern);
+}
+
+.hello {
+    position: absolute;
+    overflow: visible;
+    width: 420px;
+    height: 181px;
+    left: 101px;
+    top: 832px;
+}
+
+.DSC_7020_Class {
+    fill: url(#DSC_7020_A0_Rectangle_9_pattern);
+}
+
+.DSC_7020 {
+    position: absolute;
+    overflow: visible;
+    width: 590px;
+    height: 472px;
+    left: 70px;
+    top: 1205px;
+}
+
+.DSC_7072_Class {
+    fill: url(#DSC_7072_A0_Rectangle_11_pattern);
+}
+
+.DSC_7072 {
+    position: absolute;
+    overflow: visible;
+    width: 708px;
+    height: 472.5px;
+    left: 695px;
+    top: 1204px;
+}
+
+.DSC_9339_2_Class {
+    fill: url(#DSC_9339_2_A1_Rectangle_23_pattern);
+}
+
+.DSC_9339_2 {
+    position: absolute;
+    overflow: visible;
+    width: 707px;
+    height: 471px;
+    left: 696px;
+    top: 1204px;
+}
+
+.DSC_3955_2_Class {
+    fill: url(#DSC_3955_2_A1_Rectangle_25_pattern);
+}
+
+.DSC_3955_2 {
+    position: absolute;
+    overflow: visible;
+    width: 314px;
+    height: 471px;
+    left: 1438px;
+    top: 1203px;
+}
+
+.DSC_9641_Class {
+    fill: url(#DSC_9641_A1_Rectangle_27_pattern);
+}
+
+.DSC_9641 {
+    position: absolute;
+    overflow: visible;
+    width: 589px;
+    height: 471px;
+    left: 72px;
+    top: 1204px;
+}
+
+.DSC_8246_Class {
+    fill: url(#DSC_8246_A2_Rectangle_37_pattern);
+}
+
+.DSC_8246 {
+    position: absolute;
+    overflow: visible;
+    width: 314px;
+    height: 471px;
+    left: 1438px;
+    top: 1203px;
+}
+
+.DSC_5585_2_Class {
+    fill: url(#DSC_5585_2_A2_Rectangle_39_pattern);
+}
+
+.DSC_5585_2 {
+    position: absolute;
+    overflow: visible;
+    width: 589px;
+    height: 471px;
+    left: 72px;
+    top: 1203px;
+}
+
+.photo_whatever_Class {
+    fill: url(#photo_whatever_A2_Rectangle_42_pattern);
+}
+
+.photo_whatever {
+    position: absolute;
+    overflow: visible;
+    width: 707px;
+    height: 471px;
+    left: 696px;
+    top: 1203px;
+}
+
+.Line_1_Class {
+    fill: transparent;
+    stroke: rgb(255, 255, 255);
+    stroke-width: 4px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Line_1 {
+    overflow: visible;
+    position: absolute;
+    top: 1415.5px;
+    left: 1823.5px;
+    width: 28.313px;
+    height: 28.313px;
+}
+
+.Line_2_Class {
+    fill: transparent;
+    stroke: rgb(255, 255, 255);
+    stroke-width: 4px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Line_2 {
+    overflow: visible;
+    position: absolute;
+    top: 1438.432px;
+    left: 1823.5px;
+    width: 28.313px;
+    height: 28.313px;
+}
+
+.DSC_6093_Class {
+    fill: url(#DSC_6093_A0_Rectangle_13_pattern);
+}
+
+.DSC_6093 {
+    position: absolute;
+    overflow: visible;
+    width: 314.5px;
+    height: 472px;
+    left: 1438px;
+    top: 1204px;
+}
+
+.Rectangle_6_Class {
+    fill: rgba(30, 29, 29, 1);
+}
+
+.Rectangle_6 {
+    position: absolute;
+    overflow: visible;
+    width: 1920px;
+    height: 107px;
+    left: 0px;
+    top: 1794px;
+}
+
+.Sj_lland_based_portrait__candi_Class {
+    position: absolute;
+    left: 70px;
+    top: 1833px;
+    overflow: visible;
+    width: 668px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: SimSun-ExtB;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.contact_me__mdaf_edu_gmail_com_Class {
+    position: absolute;
+    left: 1148px;
+    top: 1841px;
+    overflow: visible;
+    width: 606px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: SimSun-ExtB;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    color: rgba(255, 255, 255, 1);
+}
