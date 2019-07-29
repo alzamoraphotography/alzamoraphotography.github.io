@@ -368,3 +368,18 @@ body {
     font-size: 22px;
     color: rgba(255, 255, 255, 1);
 }
+
+.click_here_for_mobile_version_Class {
+    position: absolute;
+    left: 1447px;
+    top: 7.41px;
+    overflow: visible;
+    width: 364px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: SimSun-ExtB;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+}
