@@ -383,3 +383,22 @@ body {
     font-size: 25px;
     color: rgba(255,255,255,1);
 }
+
+.Rectangle_16_Class {
+    fill: rgba(112,112,112,1);
+    stroke: rgb(112, 112, 112);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Rectangle_16 {
+    position: absolute;
+    overflow: visible;
+    width: 420px;
+    height: 67.821px;
+    left: 1418px;
+    top: -25px;
+}
